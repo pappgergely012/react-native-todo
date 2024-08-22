@@ -1,3 +1,5 @@
+.vscode/
+
 node_modules/
 .expo/
 dist/
@@ -18,5 +20,3 @@ web-build/
 
 expo-env.d.ts
 # @end expo-cli
-
-.vscode
